@@ -9,7 +9,7 @@ author:
   name: 'Yagyavalk Bhatt'
   email: yagyavalkbhatt@yahoo.in
   #twitter_username: yagyavalk1
-  linkedin_username:  in.linkedin.com/in/yagyavalk
+  linkedin_username: yagyavalk
 
 # Build settings
 destination: _site
