@@ -8,7 +8,7 @@ baseurl: '/'
 author:
   name: 'Yagyavalk Bhatt'
   email: yagyavalkbhatt@yahoo.in
-  twitter_username: yagyavalk1
+  #twitter_username: yagyavalk1
   linkedin_username:  in.linkedin.com/in/yagyavalk
 
 # Build settings
