@@ -1,0 +1,27 @@
+# Site settings
+title: Yagyavalk Bhatt
+description: 'Yagyavalk Bhatt | Renewable energy policy'
+url: 'http://yagyavalk.com' 
+baseurl: '/yagyavalk/'
+# google_analytics: 'UA-XXXXXX-X'
+
+author:
+  name: 'Yagyavalk Bhatt'
+  email: yagyavalkbhatt@yahoo.in
+  twitter_username: yagyavalk1
+  linkedin_username:  yagyavalk
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:title/
+markdown: kramdown
+highlighter: pygments
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
