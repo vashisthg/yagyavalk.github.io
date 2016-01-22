@@ -1,6 +1,6 @@
 # Site settings
 title: Yagyavalk Bhatt
-description: 'Yagyavalk Bhatt | Renewable energy policy research'
+description: 'Yagyavalk Bhatt | Renewable energy policy researcher'
 url: 'http://yagyavalk.com' 
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -10,7 +10,7 @@ author:
   email: yagyavalkbhatt@yahoo.in
   #twitter_username: yagyavalk1
   linkedin_username: yagyavalk
-  facebook_username: yagyavalk bhatt
+  #facebook_username: yagyavalk bhatt
 # Build settings
 destination: _site
 paginate: 10
