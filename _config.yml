@@ -1,23 +1,11 @@
 # Site settings
 title: Yagyavalk Bhatt
-description: 'Every speaker has stories to tell—stories that will not only engage, inform, surprise, delight, and impact their audience.
-
-I started my career as software developer, after having almost 2+ years experience, i decided to switch my career goals in the field of Renewable energy & sustainability.
-I worked as volunteer for preparation of eco development plan for sustainable development of remote villages of Alaknanda watershed and re-evaluation of dams.
-
-I also worked as a junior research fellow at AHEC, IIT Roorkee, which involved data analysis and preparation of project report on Low head small hydro projects and there analysis and validation of data output from small hydro. 
-
-I am working offhand with a NGO, HESCO on proposal of Watermill Training centre with MNRE, proposal for Urja Park (Energy Park) with UREDA and MNRE, energy efficient Biogas, cooking systems ,Solar dryers and watermills, decentralised Renewable energy systems, proposals of various watermills for installation these systems with UNIDO and UREDA and proposals for revival of watermills in Himalayan region with MNRE.
-
-Currently i am pursuing my M.Tech in Renewable energy engineering and management from TERI University, i am in my final semester "Major internship".
-
-Currently i am doing my last semester Major internship (6 months) with KAPSARC (King Abdullah Petroleum Studies And Research Center), Riyadh on developing a comprehensive policy reference tool (KEPD-India) focusing on India’s renewable energy policies to facilitate understanding of the Indian Renewable energy market, policy objectives, and policy focus areas, track the evolution of policies from draft to enactment to amendments and to enable qualitative/quantitative analysis and assessing effects of exogenous factors and designing a tool to showcase solar energy policy framework of all the Indian states on Tableau and also study and give recommendation renewable policy of North Africa and Middle east.
-'
+description: 'Renewable Energy Policy Researcher'
 url: 'http://yagyavalk.com' 
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 
-author:
+  author:
   name: 'Yagyavalk Bhatt'
   email: yagyavalkbhatt@yahoo.in
   #twitter_username: yagyavalk1
